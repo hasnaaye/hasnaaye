@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Smart Energy Dashboard</b>
+<b>Smart Energy Dashboard</b>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -15,6 +15,6 @@
 <h2> 🌱 I’m currently learning :</h2>
 <ul>
   <li>Alx Pro Front-End development course</li>
-  <li>Alx Back-End development course/li>
+  <li>Alx Back-End development course</li>
 </ul>
 

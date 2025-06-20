@@ -15,6 +15,6 @@
 <h2> 🌱 I’m currently learning :</h2>
 <ul>
   <li>Alx Pro Front-End development course</li>
-  <li>Alx Back-End development course</li>
+  <li>Alx Pro Back-End development course</li>
 </ul>
 

@@ -3,6 +3,12 @@
 <h2>👨‍💻 Projects:</h2>
 
 <b>Smart Energy Dashboard</b>
+<h5>Objectives</h5>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 

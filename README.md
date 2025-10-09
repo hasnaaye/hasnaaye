@@ -3,11 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 <b>Smart Energy Dashboard</b>
-<h5>Objectives</h5>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Developed a web dashboard to track electricity,
+water, and gas usage with real-time insights.</li>
+  <li>Designed interactive graphs and alerts for
+consumption patterns.</li>
+  <li>Built with PHP , MySQL, and charting libraries for
+visualization.</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>

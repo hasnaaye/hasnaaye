@@ -1,7 +1,14 @@
 <h1>Hi, I'm Hasnaa! <br/><a href="https://github.com/hasnaayerrou">A junior full stack developer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-
+<b>Intern management platform</b>
+<p>Objectives</p>
+<ul>
+  <li>Centralize intern data: Store all intern information in one place.</li>
+  <li>Simplify management: Allow HR and depatment managers to easily create, edit, view, update and organize interns and departments.</li>
+  <li>Multi-tenant system: each company or organization (tenant) has isolated data and dashboards./li>
+  <li>Transparency and collaboration: Facilitate coordination between departments, mentors and interns./li>
+</ul>
 <b>Smart Energy Dashboard</b>
 <ul>
   <li>Developed a web dashboard to track electricity,

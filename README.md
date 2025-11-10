@@ -20,13 +20,6 @@ consumption patterns.</li>
 visualization.</li>
 </ul>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HasnaaYerrou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/HasnaaYerrou
-[linkedin]: https://linkedin.com/in/hasnaayerrou
 <br/>
 <h2> 🌱 I’m currently in an internship :</h2>
 <ul>
@@ -38,5 +31,11 @@ visualization.</li>
   <li>Alx Pro Front-End development course</li>
   <li>FreeCodeCamp Javascript algorithms and data-structures</li>
 </ul>
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HasnaaYerrou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/HasnaaYerrou
+[linkedin]: https://linkedin.com/in/hasnaayerrou
 

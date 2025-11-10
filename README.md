@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 <b>Intern management platform</b>
-<p>Objectives</p>
 <ul>
   <li>Centralize intern data: Store all intern information in one place.</li>
   <li>Simplify management: Allow HR and depatment managers to easily create, edit, view, update and organize interns and departments.</li>

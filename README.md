@@ -23,7 +23,7 @@ visualization.</li>
 <h2> 🌱 I’m currently in an internship :</h2>
 <ul>
   <li>Company: HB development, Tetouan</li>
-  <li>Durattion: October-November</li>
+  <li>Duration: October-November</li>
 </ul>
 <h2>Certificates</h2>
 <ul>

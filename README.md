@@ -29,7 +29,10 @@ visualization.</li>
 [linkedin]: https://linkedin.com/in/hasnaayerrou
 <br/>
 <h2> 🌱 I’m currently in an internship :</h2>
-<ul><li>Company: HB development, Tetouan</li></ul>
+<ul>
+  <li>Company: HB development, Tetouan</li>
+  <li>Durattion: October-November</li>
+</ul>
 <h2>Certificates</h2>
 <ul>
   <li>Alx Pro Front-End development course</li>
